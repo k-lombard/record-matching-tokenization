@@ -1,0 +1,3 @@
+employer,amount,mask,firstName,lastName
+Coca-Cola,80.00,**12345,Clark,Kent
+Pepsi,58.25,*******,Lex,Luthor

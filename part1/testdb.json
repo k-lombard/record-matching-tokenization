@@ -1,0 +1,18 @@
+[
+    {
+        "employer": "Coca-Cola",
+        "mask": 12345,
+        "firstName": "Clark",
+        "lastName": "Kent",
+        "amountExpected": 80,
+        "username": "131296"
+    },
+    {
+        "employer": "Pepsi",
+        "mask": 65426,
+        "firstName": "Lex",
+        "lastName": "Luthor",
+        "amountExpected": 60,
+        "username": "de15be"
+    }
+]
